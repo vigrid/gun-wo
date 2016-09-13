@@ -1,0 +1,20 @@
+Grubcio23
+- hit1.wav
+- hit2.wav
+- hit3.wav
+
+Pepeb4
+- ui_click.wav
+- monster_attack_1.wav
+- death1.wav
+
+THEMosercesxD
+- kurwa.wav (KinaCzewa)
+- nuke_alarm.wav
+
+Mikaiya
+- monster_idle_1.wav
+- monster_attack_2.wav
+- death2.wav
+- ambience1.wav
+- parrots.wav
